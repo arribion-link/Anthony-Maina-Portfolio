@@ -110,6 +110,7 @@ header {
     width: 100%;
     background-color: var(--background-color);
     text-align: center;
+    box-shadow: 1px 1px 25px rgba(128, 128, 128, 0.01);
 }
 
 .nav-list.active {
@@ -558,4 +559,5 @@ footer {
     .work-container {
         grid-template-columns: repeat(4, 1fr);
     }
+   
 }
